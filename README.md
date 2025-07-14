@@ -14,8 +14,8 @@
 - 🔍 I'm passionate about forensic investigation and ethical hacking.
 - 🛠 I create tools that empower analysts to extract deep system insights with **Python + Bash**.
 - 🎯 Focus: **Linux forensics**, **network trace analysis**, **malware detection**, and **system monitoring**.
-- 📦 Creator of [`Forensiq`](https://github.com/TarunSharma-OSS/forensiq) — an all-in-one Linux forensic toolkit with advanced reporting.
-- 🐧 I work mostly on **Linux**, with strong command-line and scripting skills.
+- 📦 Creator of [`Forensiq`](https://github.com/DeadpooHackes/Forensiq) — an all-in-one Linux forensic toolkit with advanced reporting.
+- 🌐 Building [`Forensight`](https://github.com/DeadpooHackes/ForenSight) — next-gen forensic automation with browser-based dashboards.
 
 ---
 
@@ -23,10 +23,8 @@
 
 | Project Name | Description |
 |--------------|-------------|
-| 🔎 [Forensiq](https://github.com/TarunSharma-OSS/forensiq) | Linux Forensic Intelligence Tool - full forensic collection, HTML reporting, and Telegram delivery |
-| 🧠 AutoReconPy | Automates OSINT and scanning workflows |
-| 🎯 PayloadGen | Generates obfuscated payloads and reverse shells |
-| 📡 Network-Monitor | Real-time Flask dashboard for Linux system and network metrics |
+| 🔎 [Forensiq](https://github.com/DeadpooHackes/Forensiq) | Linux Forensic Intelligence Tool - full forensic collection, HTML reporting, and Telegram delivery |
+| 🌐 [Forensight](https://github.com/DeadpooHackes/ForenSight) | Next-gen forensic automation with real-time dashboards and UI |
 
 ---
 
@@ -38,14 +36,15 @@
   <img src="https://img.shields.io/badge/Flask-WebApp-blue?style=flat&logo=flask"/>
   <img src="https://img.shields.io/badge/HTML-Reports-orange?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/Telegram-API-blue?style=flat&logo=telegram"/>
+  <img src="https://img.shields.io/badge/Discord-Bot-7289da?style=flat&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Website:** Coming Soon
-- 📬 **Telegram:** [@tarunsharma_sec](https://t.me/tarunsharma_sec)
-- 🧰 **GitHub Projects:** [github.com/TarunSharma-OSS](https://github.com/TarunSharma-OSS)
+
+- 🔗 **Website:** [https://tarunpapa.netlify.app/](https://tarunpapa.netlify.app/)  
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
 
 ---
 
@@ -56,5 +55,3 @@
 ---
 
 > 💬 “Digital Forensics is not just a task — it's an investigation. Let's make it powerful.”
-
-
