@@ -15,7 +15,7 @@
 - 🛠 I create tools that empower analysts to extract deep system insights with **Python + Bash**.
 - 🎯 Focus: **Linux forensics**, **network trace analysis**, **malware detection**, and **system monitoring**.
 - 📦 Creator of [`Forensiq`](https://github.com/DeadpooHackes/Forensiq) — an all-in-one Linux forensic toolkit with advanced reporting.
-- 🌐 Building [`Forensight`](https://github.com/DeadpooHackes/ForenSight) — next-gen forensic automation with browser-based dashboards.
+- 🌐 Building [`Forensight`](https://github.com/DeadpooHackes/ForenSight) — Forensic Insight: Automated Windows evidence collection for cybersecurity investigations.
 
 ---
 
@@ -24,7 +24,7 @@
 | Project Name | Description |
 |--------------|-------------|
 | 🔎 [Forensiq](https://github.com/DeadpooHackes/Forensiq) | Linux Forensic Intelligence Tool - full forensic collection, HTML reporting, and Telegram delivery |
-| 🌐 [Forensight](https://github.com/DeadpooHackes/ForenSight) | Next-gen forensic automation with real-time dashboards and UI |
+| 🌐 [Forensight](https://github.com/DeadpooHackes/ForenSight) | Forensic Insight: Automated Windows evidence collection for cybersecurity investigations |
 
 ---
 
