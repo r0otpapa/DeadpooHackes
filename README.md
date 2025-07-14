@@ -46,12 +46,5 @@
 - 🔗 **Website:** [https://tarunpapa.netlify.app/](https://tarunpapa.netlify.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunSharma-OSS&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
-</p>
-
----
 
 > 💬 “Digital Forensics is not just a task — it's an investigation. Let's make it powerful.”
