@@ -26,10 +26,9 @@
 
 | Project Name      | Description                                 | Status     |
 |-------------------|---------------------------------------------|------------|
-| `Forensiq`        | Advanced Linux forensic toolkit             | ✅ Stable   |
-| `Forensight`      | Windows automated evidence collector        | 🛠 Beta     |
-| `CirrusCtrl`      | Flask system monitor & dashboard            | ⚙️ Dev      |
-| `QR-ID Auth`      | Visitor/Employee QR access manager          | ✅ Stable   |
+| `🕵️ Forensiq`        | Advanced Linux forensic toolkit             | ✅ Stable   |
+| `📎 Forensight`      | Windows automated evidence collector        | 🛠 Beta     |
+| `🦆 duckpapa`      | Raspberry pi zero w as rbber duckey            | ⚙️ Dev      |
 
 ---
 
