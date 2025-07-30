@@ -1,74 +1,47 @@
-<h1 align="center">Hi 👋, I'm Tarun Sharma</h1>
-<h3 align="center">Cybersecurity Enthusiast | Python Developer | Forensic Analyst</h3>
+<h1 align="center">🤖 r0otpapa Discord Dashboard</h1>
+<h3 align="center">Tarun Sharma | Cybersecurity | Python | Forensics</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Forensics-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Python-Scripting-blue?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hacking-Tools-red?style=flat"/>
-  <img src="https://img.shields.io/badge/Automation-Linux-green?style=flat&logo=gnubash"/>
+  <img src="https://img.shields.io/badge/Discord-Bot%20Dev-7289da?style=flat&logo=discord"/>
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat&logo=discord"/>
+  <img src="https://img.shields.io/badge/User%20ID-•%20rootpapa%230013-blue?style=flat"/>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🛡 Passionate about ethical hacking and forensic analysis.
-- 🧪 Building tools for system inspection with Python + Bash.
-- 🐧 Linux forensics, network trace analysis, malware detection.
-- 📦 Creator of [`Forensiq`](https://github.com/DeadpooHackes/Forensiq) – advanced Linux forensic tool.
-- 🌐 Building [`Forensight`](https://github.com/DeadpooHackes/ForenSight) – automated Windows evidence collector.
+## 🧪 Bot Info
+
+| Key             | Value                        |
+|----------------|------------------------------|
+| 🤖 Bot Name     | `r0otpapa_bot`               |
+| 🛡 Mode         | `Hacker Mode: ON`            |
+| 🔁 Auto Updates | `Enabled`                    |
+| 🧠 AI Engine    | `Python 3.11` + `Regex`      |
+| 💬 Prefix       | `!`                          |
 
 ---
 
-## 🚀 Featured Projects
+## 📟 Commands Overview
 
-| Project       | Description                                                                 |
-|---------------|------------------------------------------------------------------------------|
-| 🔎 [Forensiq](https://github.com/DeadpooHackes/Forensiq) | Linux forensic toolkit: HTML reports, Telegram alerts |
-| 🌐 [Forensight](https://github.com/DeadpooHackes/ForenSight) | Windows analysis framework for cyber investigations |
-
----
-
-## 📊 Skill Chart
-
-| Skill                | Proficiency |
-|---------------------|-------------|
-| 🐍 Python            | ████░░░░░░░ 35% |
-| 🧮 Bash Scripting     | ███░░░░░░░ 15% |
-| 🖥️ Linux CLI         | █████████░░ 85% |
-| 🧾 HTML Reporting     | ██████░░░░ 60% |
-| 📲 Telegram API       | ██████░░░░ 65% |
-| 💬 Discord Bot Dev    | █████░░░░░ 50% |
-
-> 💡 Powered by forensic automation and ethical workflows.
+| Command           | Description                                 |
+|-------------------|---------------------------------------------|
+| `!scan`           | Simulates a port/network scan               |
+| `!trace`          | Shows a fake traceroute                     |
+| `!forensic`       | Prints mock digital evidence logs           |
+| `!matrix`         | Launches terminal-style matrix rain         |
+| `!whoami`         | Returns fake terminal username + IP         |
 
 ---
 
-## 🛠 Languages & Tools
+## 🧬 Developer Info
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Expert-yellowgreen?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/Bash-Scripting-lightgrey?style=flat&logo=gnubash"/>
-  <img src="https://img.shields.io/badge/Linux-CLI-informational?style=flat&logo=linux"/>
-  <img src="https://img.shields.io/badge/HTML-Reports-orange?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/Telegram-API-blue?style=flat&logo=telegram"/>
-  <img src="https://img.shields.io/badge/Discord-Bot-7289da?style=flat&logo=discord"/>
-</p>
+- **Name:** Tarun Sharma
+- **Alias:** `r0otpapa`
+- **Discord Tag:** `rootpapa#0013`
+- **Portfolio:** [r0otpapa.netlify.app](https://r0otpapa.netlify.app)
 
 ---
 
-## 📈 GitHub Stats
+> 💬 *“Everything looks suspicious until proven clean — stay root.”*  
+> — r0otpapa
 
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadpooHackes&show_icons=true&theme=radical)](https://github.com/DeadpooHackes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpooHackes&layout=compact&theme=gruvbox)](https://github.com/DeadpooHackes)
-
----
-
-## 📫 Connect With Me
-
-- 🌐 [r0otpapa.netlify.app](https://r0otpapa.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
-
----
-
-> 💬 “Digital Forensics is not just a task — it's an investigation. Let's make it powerful.”
