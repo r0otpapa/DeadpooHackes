@@ -41,11 +41,19 @@
 [+] Telegram API     ✔
 [+] Git/GitHub CLI   ✔
 ```
+
+### 🧠 SKILL MONITOR
+
+
 Python        [■■■■■□□□□□] 60%
 Linux Forensic[■■■■■■■■□□] 80%
 HTML Reports  [■■■■■■■□□□] 70%
 Telegram Bots [■■■■■□□□□□] 50%
 Networking     [■■■■□□□□□□] 40%
+
+
+### 📡 CONTACT PANEL
+
 
 [+] Portfolio   → r0otpapa.netlify.app
 [+] LinkedIn    → linkedin.com/in/tarun-kumar-sharma-b99b00305
