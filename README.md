@@ -44,17 +44,16 @@
 
 ### 🧠 SKILL MONITOR
 
-
-Python        [■■■■■□□□□□] 60%
-Linux Forensic[■■■■■■■■□□] 80%
-HTML Reports  [■■■■■■■□□□] 70%
-Telegram Bots [■■■■■□□□□□] 50%
-Networking     [■■■■□□□□□□] 40%
+- Python        [■■■■■□□□□□] 60%
+- Linux Forensic[■■■■■■■■□□] 80%
+- HTML Reports  [■■■■■■■□□□] 70%
+- Telegram Bots [■■■■■□□□□□] 50%
+- Networking     [■■■■□□□□□□] 40%
 
 
 ### 📡 CONTACT PANEL
 
 
-[+] Portfolio   → r0otpapa.netlify.app
-[+] LinkedIn    → linkedin.com/in/tarun-kumar-sharma-b99b00305
-
+- 🌐 [r0otpapa.netlify.app](https://r0otpapa.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
+💬 r0otpapa says: "Hack the data, not the people."
