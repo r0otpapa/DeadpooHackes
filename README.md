@@ -9,15 +9,12 @@
 
 ---
 
-
-
-- ┌─────────────────────────────┐
-- │  Username   : r0otpapa                 │
-- │  Alias      : Tarun Sharma             │
-- │  Mode       : Cybersecurity Active 🛡  │
-- │  Skills     : Python | Forensics | CLI │
-- │  Status     : Hacking Ethically...     │
-- ┌─────────────────────────────┐
+|------------------|------------------|
+| Username    | r0otpapae         |
+| Alias   | Tarun Sharma     |
+| Mode        | Cybersecurity Active 🛡      |
+| Skills     | Python | Forensics | CLI         |
+| Status    | Hacking Ethically...         |
 
 - 💬 Hacking is my art. Forensics is my brush.
 — 🧠 r0otpapa
