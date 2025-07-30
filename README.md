@@ -16,7 +16,7 @@
 - │  Skills     : Python | Forensics | CLI │
 - │  Status     : Hacking Ethically...     │
 - └────────────────────────────────────────┘
-💬 Hacking is my art. Forensics is my brush.
+- 💬 Hacking is my art. Forensics is my brush.
 — 🧠 r0otpapa
 
 ## 🧪 SYSTEM STATS
