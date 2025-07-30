@@ -8,20 +8,14 @@
 </p>
 
 ---
-| 🔧 Module         | 💡 Status        |
-|------------------|------------------|
-| Username    | r0otpapae         |
-| Alias   | Tarun Sharma     |
-| Mode        | Cybersecurity Active 🛡      |
-| Skills     | Python | Forensics | CLI         |
-| Status    | Hacking Ethically...         |
+
 
 - 💬 Hacking is my art. Forensics is my brush.
 — 🧠 r0otpapa
 
 ## 🧪 SYSTEM STATS
 
-
+| 🔧 Module         | 💡 Status        |
 |------------------|------------------|
 | Python Scripts    | ✅ Active         |
 | Forensic Engine   | 🔁 Scanning...    |
