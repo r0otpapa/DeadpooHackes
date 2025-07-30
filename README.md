@@ -8,7 +8,7 @@
 </p>
 
 ---
-
+| 🔧 Module         | 💡 Status        |
 |------------------|------------------|
 | Username    | r0otpapae         |
 | Alias   | Tarun Sharma     |
@@ -21,7 +21,7 @@
 
 ## 🧪 SYSTEM STATS
 
-| 🔧 Module         | 💡 Status        |
+
 |------------------|------------------|
 | Python Scripts    | ✅ Active         |
 | Forensic Engine   | 🔁 Scanning...    |
