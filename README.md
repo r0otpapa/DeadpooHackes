@@ -1,5 +1,4 @@
 <h1 align="center">🧠 I'm r0otpapa</h1>
-<h3 align="center">Cybersecurity Enthusiast | Python Developer | Forensic Analyst</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/System-Active-brightgreen?style=flat&logo=linux"/>
@@ -9,18 +8,13 @@
 </p>
 
 ---
-
-## 🧠 r0otpapa Identity Panel
-
-<table align="center">
-  <tr><td><strong>👤 Username</strong></td><td>r0otpapa</td></tr>
-  <tr><td><strong>🪪 Alias</strong></td><td>Tarun Sharma</td></tr>
-  <tr><td><strong>🔐 Mode</strong></td><td>Cybersecurity Active 🛡</td></tr>
-  <tr><td><strong>💻 Skills</strong></td><td>Python | Forensics | CLI</td></tr>
-  <tr><td><strong>📡 Status</strong></td><td>Hacking Ethically...</td></tr>
-</table>
-
----
+┌────────────────────────────────────────┐
+│  Username   : r0otpapa                 │
+│  Alias      : Tarun Sharma             │
+│  Mode       : Cybersecurity Active 🛡  │
+│  Skills     : Python | Forensics | CLI │
+│  Status     : Hacking Ethically...     │
+└────────────────────────────────────────┘
 
 ## 🧪 SYSTEM STATS
 
@@ -36,20 +30,38 @@
 
 ## 🔐 ACTIVE PROJECTS
 
-| Project Name       | Description                                     | Status     |
-|--------------------|-------------------------------------------------|------------|
-| `🕵️ Forensiq`        | Advanced Linux forensic toolkit                 | ✅ Stable   |
-| `📎 Forensight`      | Windows automated evidence collector            | 🛠 Beta     |
-| `🦆 duckpapa`        | Raspberry Pi Zero W as USB Rubber Ducky         | ⚙️ Dev      |
+| Project Name      | Description                                 | Status     |
+|-------------------|---------------------------------------------|------------|
+| 🕵️ Forensiq        | Advanced Linux forensic toolkit             | ✅ Stable   |
+| 📎 Forensight      | Windows automated evidence collector        | 🛠 Beta     |
+| 🦆 duckpapa      | Raspberry pi zero w as rbber duckey            | ⚙️ Dev      |
 
 ---
 
 ## ⚙️ TOOLKIT SNAPSHOT
 
-```bash
-[+] Python         v3.11         ✔
-[+] Bash           v5.1          ✔
-[+] HTML/CSS       UI Reporting  ✔
-[+] Telegram API   Integrated    ✔
-[+] Git/GitHub CLI Active        ✔
+bash
+[+] Python      v3.11 ✔
+[+] Bash        v5.1  ✔
+[+] HTML/CSS    UI Reporting ✔
+[+] Telegram API     ✔
+[+] Git/GitHub CLI   ✔
 
+
+### 🧠 SKILL MONITOR
+
+- Python        [■■■■■□□□□□] 60%
+- Linux Forensic[■■■■■■■■□□] 80%
+- HTML Reports  [■■■■■■■□□□] 70%
+- Telegram Bots [■■■■■□□□□□] 50%
+- Networking     [■■■■□□□□□□] 40%
+
+
+### 📡 CONTACT PANEL
+
+
+- 🌐 [r0otpapa.netlify.app](https://r0otpapa.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
+
+
+💬 r0otpapa says: "Hack the data, not the people."
