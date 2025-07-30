@@ -1,47 +1,53 @@
-<h1 align="center">🤖 r0otpapa Discord Dashboard</h1>
-<h3 align="center">Tarun Sharma | Cybersecurity | Python | Forensics</h3>
+<h1 align="center">🧠 I'm r0otpapa</h1>
+<h3 align="center">Tarun Sharma — Cybersecurity | Python Dev | Forensics</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-Bot%20Dev-7289da?style=flat&logo=discord"/>
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat&logo=discord"/>
-  <img src="https://img.shields.io/badge/User%20ID-•%20rootpapa%230013-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/System-Active-brightgreen?style=flat&logo=linux"/>
+  <img src="https://img.shields.io/badge/User-r0otpapa-blue?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-lightgrey?style=flat&logo=gnubash"/>
+  <img src="https://img.shields.io/badge/Last_Update-Auto--Sync-orange?style=flat"/>
 </p>
 
 ---
 
-## 🧪 Bot Info
+## 🧪 SYSTEM STATS
 
-| Key             | Value                        |
-|----------------|------------------------------|
-| 🤖 Bot Name     | `r0otpapa_bot`               |
-| 🛡 Mode         | `Hacker Mode: ON`            |
-| 🔁 Auto Updates | `Enabled`                    |
-| 🧠 AI Engine    | `Python 3.11` + `Regex`      |
-| 💬 Prefix       | `!`                          |
-
----
-
-## 📟 Commands Overview
-
-| Command           | Description                                 |
-|-------------------|---------------------------------------------|
-| `!scan`           | Simulates a port/network scan               |
-| `!trace`          | Shows a fake traceroute                     |
-| `!forensic`       | Prints mock digital evidence logs           |
-| `!matrix`         | Launches terminal-style matrix rain         |
-| `!whoami`         | Returns fake terminal username + IP         |
+| 🔧 Module         | 💡 Status        |
+|------------------|------------------|
+| Python Scripts    | ✅ Active         |
+| Forensic Engine   | 🔁 Scanning...    |
+| Telegram Alerts   | 📡 Connected      |
+| Bash Toolkit      | 🧰 Loaded         |
+| Web UI            | 🖥️  Online         |
 
 ---
 
-## 🧬 Developer Info
+## 🔐 ACTIVE PROJECTS
 
-- **Name:** Tarun Sharma
-- **Alias:** `r0otpapa`
-- **Discord Tag:** `rootpapa#0013`
-- **Portfolio:** [r0otpapa.netlify.app](https://r0otpapa.netlify.app)
+| Project Name      | Description                                 | Status     |
+|-------------------|---------------------------------------------|------------|
+| `Forensiq`        | Advanced Linux forensic toolkit             | ✅ Stable   |
+| `Forensight`      | Windows automated evidence collector        | 🛠 Beta     |
+| `CirrusCtrl`      | Flask system monitor & dashboard            | ⚙️ Dev      |
+| `QR-ID Auth`      | Visitor/Employee QR access manager          | ✅ Stable   |
 
 ---
 
-> 💬 *“Everything looks suspicious until proven clean — stay root.”*  
-> — r0otpapa
+## ⚙️ TOOLKIT SNAPSHOT
+
+```bash
+[+] Python      v3.11 ✔
+[+] Bash        v5.1  ✔
+[+] HTML/CSS    UI Reporting ✔
+[+] Telegram API     ✔
+[+] Git/GitHub CLI   ✔
+```
+Python        [■■■■■□□□□□] 60%
+Linux Forensic[■■■■■■■■□□] 80%
+HTML Reports  [■■■■■■■□□□] 70%
+Telegram Bots [■■■■■□□□□□] 50%
+Networking     [■■■■□□□□□□] 40%
+
+[+] Portfolio   → r0otpapa.netlify.app
+[+] LinkedIn    → linkedin.com/in/tarun-kumar-sharma-b99b00305
 
