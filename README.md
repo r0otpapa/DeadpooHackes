@@ -10,41 +10,65 @@
 
 ---
 
-### 🧠 About Me
-- 🔍 I'm passionate about forensic investigation and ethical hacking.
-- 🛠 I create tools that empower analysts to extract deep system insights with **Python + Bash**.
-- 🎯 Focus: **Linux forensics**, **network trace analysis**, **malware detection**, and **system monitoring**.
-- 📦 Creator of [`Forensiq`](https://github.com/DeadpooHackes/Forensiq) — an all-in-one Linux forensic toolkit with advanced reporting.
-- 🌐 Building [`Forensight`](https://github.com/DeadpooHackes/ForenSight) — Forensic Insight: Automated Windows evidence collection for cybersecurity investigations.
+## 🧠 About Me
+- 🛡 Passionate about ethical hacking and forensic analysis.
+- 🧪 Building tools for system inspection with Python + Bash.
+- 🐧 Linux forensics, network trace analysis, malware detection.
+- 📦 Creator of [`Forensiq`](https://github.com/DeadpooHackes/Forensiq) – advanced Linux forensic tool.
+- 🌐 Building [`Forensight`](https://github.com/DeadpooHackes/ForenSight) – automated Windows evidence collector.
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-| Project Name | Description |
-|--------------|-------------|
-| 🔎 [Forensiq](https://github.com/DeadpooHackes/Forensiq) | Linux Forensic Intelligence Tool - full forensic collection, HTML reporting, and Telegram delivery |
-| 🌐 [Forensight](https://github.com/DeadpooHackes/ForenSight) | Forensic Insight: Automated Windows evidence collection for cybersecurity investigations |
+| Project       | Description                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| 🔎 [Forensiq](https://github.com/DeadpooHackes/Forensiq) | Linux forensic toolkit: HTML reports, Telegram alerts |
+| 🌐 [Forensight](https://github.com/DeadpooHackes/ForenSight) | Windows analysis framework for cyber investigations |
 
 ---
 
-### 🛠 Languages & Tools
+## 📊 Skill Chart
+
+| Skill                | Proficiency |
+|---------------------|-------------|
+| 🐍 Python            | ██████████ 95% |
+| 🧮 Bash Scripting     | ████████░░ 75% |
+| 🖥️ Linux CLI         | █████████░ 85% |
+| 🧾 HTML Reporting     | ██████░░░░ 60% |
+| 📲 Telegram API       | ██████░░░░ 65% |
+| 💬 Discord Bot Dev    | █████░░░░░ 50% |
+
+> 💡 Powered by forensic automation and ethical workflows.
+
+---
+
+## 🛠 Languages & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=yellowgreen"/>
+  <img src="https://img.shields.io/badge/Python-Expert-yellowgreen?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/Bash-Scripting-lightgrey?style=flat&logo=gnubash"/>
-  <img src="https://img.shields.io/badge/Linux-CommandLine-informational?style=flat&logo=linux"/>
-  <img src="https://img.shields.io/badge/Flask-WebApp-blue?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/Linux-CLI-informational?style=flat&logo=linux"/>
   <img src="https://img.shields.io/badge/HTML-Reports-orange?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/Telegram-API-blue?style=flat&logo=telegram"/>
-  <img src="https://img.shields.io/badge/Discord-Bot-7289da?style=flat&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-Bot-7289da?style=flat&logo=discord"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📈 GitHub Stats
 
-- 🔗 **Website:** [https://tarunpapa.netlify.app/](https://tarunpapa.netlify.app/)  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadpooHackes&show_icons=true&theme=radical)](https://github.com/DeadpooHackes)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpooHackes&layout=compact&theme=gruvbox)](https://github.com/DeadpooHackes)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [tarunpapa.netlify.app](https://tarunpapa.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
+
+---
 
 > 💬 “Digital Forensics is not just a task — it's an investigation. Let's make it powerful.”
