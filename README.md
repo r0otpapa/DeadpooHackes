@@ -66,7 +66,7 @@
 
 ## 📫 Connect With Me
 
-- 🌐 [tarunpapa.netlify.app](https://tarunpapa.netlify.app/)
+- 🌐 [tarunpapa.netlify.app](https://rootpapa.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tarun-kumar-sharma-b99b00305)
 
 ---
