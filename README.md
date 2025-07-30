@@ -1,5 +1,12 @@
 <h1 align="center">🧠 I'm r0otpapa</h1>
-<h3 align="center">Tarun Sharma — Cybersecurity | Python Dev | Forensics</h3>
+┌────────────────────────────────────────┐
+│  Username   : r0otpapa                 │
+│  Alias      : Tarun Sharma             │
+│  Mode       : Cybersecurity Active 🛡  │
+│  Skills     : Python | Forensics | CLI │
+│  Status     : Hacking Ethically...     │
+└────────────────────────────────────────┘
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/System-Active-brightgreen?style=flat&logo=linux"/>
